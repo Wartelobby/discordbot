@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wartelobby/discordbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wartelobby/discordbot/issues"
+  },
+  "homepage": "https://github.com/Wartelobby/discordbot#readme"
+}
